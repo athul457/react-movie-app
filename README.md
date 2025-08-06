@@ -6,7 +6,7 @@ A modern React web application that lets users explore popular movies, search fo
 
 ## 📸 Demo
 
-[https://cinema-application-react.netlify.app/]
+https://cinema-application-react.netlify.app/
 
 ---
 
